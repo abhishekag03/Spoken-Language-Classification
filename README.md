@@ -8,5 +8,5 @@ Binary language classification - English, Hindi
 Multiclass classification - Hindi, Kannada, Dutch, Arabic, South Korean, Thai
 Audio segmentation - Detect English and Hindi segments in the code mixed audio file
 
-The code for Binary Language Classification is in "Spoken_Language_Binary_Classification.ipynb"
+The code for Binary Language Classification and Audio segmentation is in "Spoken_Language_Binary_Classification.ipynb"
 The code for Multi Language Classification is in "Spoken_Language_Multi_Classification.ipynb"
